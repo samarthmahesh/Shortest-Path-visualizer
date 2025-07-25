@@ -1,9 +1,3 @@
-# Shortest-Path- Visualizer
-Project done on Nov 10th 2024. 
-
-A Python project that implements NetworkX and Matplotlib together with Dijkstra’s algorithm to identify and display the minimal distance path between weighted graph network cities.
-
-PROJECT
 
 SHORTEST DISTANCE BETWEEN 2 CITIES IN A NETWORK
 
