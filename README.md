@@ -1,4 +1,4 @@
-# Shortest-Path-Project done on :10/11/2024
+# Shortest-Path-Project done on Nov 10th 2024
 A Python project that implements NetworkX and Matplotlib together with Dijkstra’s algorithm to identify and display the minimal distance path between weighted graph network cities.
 
 PROJECT
